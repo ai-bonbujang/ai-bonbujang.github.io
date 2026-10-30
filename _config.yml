@@ -3,7 +3,6 @@ description: AI 팀을 이끄는 본부장이 되었습니다. 내 업무에 AI 
 lang: ko
 theme: minima
 timezone: Asia/Seoul
-baseurl: "/ai-bonbujang"
 permalink: /:year/:month/:title/
 minima:
   skin: classic
