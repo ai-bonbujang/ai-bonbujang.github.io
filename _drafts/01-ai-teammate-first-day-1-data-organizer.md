@@ -3,6 +3,7 @@ layout: post
 title: "AI 팀원 첫 출근 ① 자료 정리 담당"
 subtitle: "회의 메모와 엑셀 정리부터 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 자료정리]
+status: ready
 ---
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
