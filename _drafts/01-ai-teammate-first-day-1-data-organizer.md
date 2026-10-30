@@ -4,11 +4,14 @@ title: "AI 팀원 첫 출근 ① 자료 정리 담당"
 subtitle: "회의 메모와 엑셀 정리부터 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 자료정리]
 status: ready
+image: /assets/img/ai-teammate-first-day-1-data-organizer/cover.png
 ---
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
 
 ## 인사 카드
+
+![사원증 모양으로 정리한 인사 카드: 자료 정리 담당 (AI)]({{ '/assets/img/ai-teammate-first-day-1-data-organizer/card.svg' | relative_url }})<!-- img:card -->
 
 | | |
 |---|---|
@@ -49,6 +52,8 @@ AI 팀원은 새로 온 팀원처럼 맥락을 몰라요. 그래서 한 번에 �
 - 첫 주 끝: 믿고 맡길 일과 계속 확인할 일을 나눠 적어요.
 
 ## 전과 후
+
+![전 5단계와 후 3~4단계를 나란히 놓은 그림. 빠지는 단계는 흐리게 표시했어요]({{ '/assets/img/ai-teammate-first-day-1-data-organizer/steps.svg' | relative_url }})<!-- img:steps -->
 
 가상 회의 메모 3건(각 약 900자)으로 재 봤어요. 단계 수는 아래처럼 나눠 센 값이에요.
 

@@ -3,11 +3,14 @@ layout: post
 title: "AI 팀원 첫 출근 ② 메일 정리 담당"
 subtitle: "긴 메일 여러 통을 요약하고 답장 초안까지 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 메일정리]
+image: /assets/img/ai-teammate-first-day-2-mail-organizer/cover.png
 ---
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
 
 ## 인사 카드
+
+![사원증 모양으로 정리한 인사 카드: 메일 정리 담당 (AI)]({{ '/assets/img/ai-teammate-first-day-2-mail-organizer/card.svg' | relative_url }})<!-- img:card -->
 
 | | |
 |---|---|
@@ -48,6 +51,8 @@ AI 팀원은 우리 회사 사정도, 이 메일의 앞뒤 사정도 몰라요. 
 - 첫 주 끝: 믿고 맡길 메일(단순 안내, 일정 조율)과 계속 직접 읽을 메일(항의, 계약, 인사)을 나눠 적어요.
 
 ## 전과 후
+
+![전 5단계와 후 3~4단계를 나란히 놓은 그림. 빠지는 단계는 흐리게 표시했어요]({{ '/assets/img/ai-teammate-first-day-2-mail-organizer/steps.svg' | relative_url }})<!-- img:steps -->
 
 가상 메일 3건(각 약 800~900자)으로 재 봤어요. 단계 수는 아래처럼 나눠 센 값이에요.
 
