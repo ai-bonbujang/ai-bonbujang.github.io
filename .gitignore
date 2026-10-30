@@ -1,0 +1,10 @@
+_site/
+.jekyll-cache/
+.sass-cache/
+Gemfile.lock
+publish.log
+# 로컬 설정·비밀 값은 저장소에 올리지 않는다
+.env
+*.local
+config.local.*
+secrets/

@@ -1,0 +1,41 @@
+# 매주 화요일 오전 9시(KST) = 화요일 00:00 UTC 에 ready 초안 1편을 발행한다.
+name: publish-next
+
+on:
+  schedule:
+    - cron: "0 0 * * 2"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "true 면 파일을 바꾸지 않고 대상만 출력"
+        default: "false"
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 다음 글 선택·이동
+        id: publish
+        shell: pwsh
+        run: |
+          $opts = @{ Site = "." }
+          if ("${{ github.event.inputs.dry_run }}" -eq "true") { $opts.DryRun = $true }
+          ./tools/publish_next.ps1 @opts | Tee-Object -FilePath publish.log
+
+      - name: 커밋 및 push
+        if: github.event.inputs.dry_run != 'true'
+        run: |
+          if [ -n "$(git status --porcelain -- _posts _drafts)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add _posts _drafts
+            git commit -m "publish: $(grep -m1 '^PUBLISHED:' publish.log | cut -c12-)"
+            git push
+          else
+            echo "발행할 글이 없어 커밋하지 않음"
+          fi
