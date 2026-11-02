@@ -4,7 +4,7 @@ title: "AI 팀원 첫 출근 ④ 주문 정리 담당"
 subtitle: "주문 엑셀을 택배 송장 양식으로 바꿔 달라고 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 주문정리]
 image: /assets/img/ai-teammate-first-day-4-order-organizer/cover.png
-status: ready
+date: 2026-11-02 23:56:47 +0900
 ---
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
