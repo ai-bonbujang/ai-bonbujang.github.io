@@ -190,7 +190,9 @@ function MakeCard($p, [string]$dir) {
         if ($k -eq "처리 시간") { $v = ($v -replace "\..*$", "") }
         $rows += , @($k, $v)
     }
-    $h = 390 + 76 * $rows.Count
+    # 값이 여러 줄로 나뉘면 줄 수만큼 칸 높이를 늘린다(줄이 다음 칸 선과 겹치지 않게)
+    $rowH = @(); foreach ($r in $rows) { $n = (WrapText $r[1] 26 560).Count; $rowH += [math]::Max(76, 42 + 34 * $n) }
+    $h = 314 + ($rowH | Measure-Object -Sum).Sum + 76
     $s = SvgHead 900 $h ("인사 카드: " + $role)
     $s += "<rect width=""900"" height=""$h"" fill=""$PAPER""/>`n"
     $s += "<rect x=""40"" y=""40"" width=""820"" height=""$($h - 80)"" rx=""28"" fill=""#FFFFFF"" stroke=""$NAVY"" stroke-width=""3""/>`n"
@@ -203,13 +205,15 @@ function MakeCard($p, [string]$dir) {
     $y = 280
     foreach ($ln in (WrapText $role 40 600)) { $s += T 210 $y 40 "700" $NAVY $ln; $y += 48 }
     $y = 330
+    $ri = -1
     foreach ($r in $rows) {
+        $ri++
         $s += "<line x1=""80"" y1=""$($y - 20)"" x2=""820"" y2=""$($y - 20)"" stroke=""#D9DEE8"" stroke-width=""2""/>`n"
         $s += T 80 ($y + 22) 22 "700" $GRAY $r[0]
         $vl = WrapText $r[1] 26 560
         $yy = $y + 24
         foreach ($ln in $vl) { $s += T 260 $yy 26 "400" $NAVY $ln; $yy += 34 }
-        $y += 76
+        $y += $rowH[$ri]
     }
     $s += "</svg>`n"
     [System.IO.File]::WriteAllText((Join-Path $dir "card.svg"), $s, $utf8)
