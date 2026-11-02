@@ -4,6 +4,7 @@ title: "AI 팀원 첫 출근 ② 메일 정리 담당"
 subtitle: "긴 메일 여러 통을 요약하고 답장 초안까지 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 메일정리]
 image: /assets/img/ai-teammate-first-day-2-mail-organizer/cover.png
+status: ready
 ---
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
