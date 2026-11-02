@@ -1,9 +1,9 @@
-# 매주 화요일 오전 9시(KST) = 화요일 00:00 UTC 에 ready 초안 1편을 발행한다.
+﻿# 매주 화·목·토 오전 9시(KST) = 00:00 UTC 에 ready 초안 1편을 발행한다.
 name: publish-next
 
 on:
   schedule:
-    - cron: "0 0 * * 2"
+    - cron: "0 0 * * 2,4,6"
   workflow_dispatch:
     inputs:
       dry_run:
