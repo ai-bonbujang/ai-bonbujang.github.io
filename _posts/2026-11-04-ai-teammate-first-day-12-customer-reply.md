@@ -4,7 +4,7 @@ title: "AI 팀원 첫 출근 ⑫ 고객 문의 답장 담당"
 subtitle: "쌓인 문의 메일에 답장 초안과 '내가 확인할 것' 표시를 달아 달라고 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 고객응대]
 image: /assets/img/ai-teammate-first-day-12-customer-reply/cover.png
-status: ready
+date: 2026-11-04 20:39:24 +0900
 ---
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
