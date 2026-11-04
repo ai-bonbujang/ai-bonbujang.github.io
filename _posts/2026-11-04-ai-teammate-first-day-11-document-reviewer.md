@@ -4,7 +4,7 @@ title: "AI 팀원 첫 출근 ⑪ 문서 검토 담당"
 subtitle: "계약서와 공지 초안에서 빠진 항목과 어색한 문장을 체크리스트로 뽑아 달라고 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 문서검토]
 image: /assets/img/ai-teammate-first-day-11-document-reviewer/cover.png
-status: ready
+date: 2026-11-04 20:21:44 +0900
 ---
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
