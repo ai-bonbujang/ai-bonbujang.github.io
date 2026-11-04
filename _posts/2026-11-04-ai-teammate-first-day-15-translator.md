@@ -5,6 +5,7 @@ subtitle: "외국어 메일과 자료를 번역본과 '뜻이 애매한 표현' 
 tags: [AI팀원, 업무지시서, 번역]
 image: /assets/img/ai-teammate-first-day-15-translator/cover.png
 date: 2026-11-04 21:09:13 +0900
+description: "외국어 메일과 자료를 번역본과 '뜻이 애매한 표현' 목록으로 바꿔 달라고 맡겨 봤어요"
 ---
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.

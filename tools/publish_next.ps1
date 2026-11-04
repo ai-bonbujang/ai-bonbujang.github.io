@@ -55,6 +55,11 @@ $head = [regex]::Replace($head, "(?m)^date:.*\r?\n?", "")
 $nl = if ($text.Contains("`r`n")) { "`r`n" } else { "`n" }
 # 닫는 --- 바로 앞에 date 줄을 넣는다
 $head = [regex]::Replace($head, "(\r?\n)---\z", "$nl" + "date: $dateFm" + '$1---')
+# 검색 결과 설명: description 이 없으면 subtitle 을 그대로 쓴다
+if ($head -notmatch "(?m)^description:") {
+    $sub = [regex]::Match($head, '(?m)^subtitle:\s*(.+?)\s*$')
+    if ($sub.Success) { $head = [regex]::Replace($head, "(\r?\n)---\z", "$nl" + "description: " + $sub.Groups[1].Value + '$1---') }
+}
 $out = $head + $rest
 
 $title = [regex]::Match($head, '(?m)^title:\s*"?(.*?)"?\s*$').Groups[1].Value

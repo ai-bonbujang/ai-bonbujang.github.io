@@ -5,6 +5,7 @@ subtitle: "흩어진 작업 메모를 단계별 매뉴얼로 바꾸고 빠진 �
 tags: [AI팀원, 업무지시서, 업무매뉴얼]
 image: /assets/img/ai-teammate-first-day-16-manual-writer/cover.png
 date: 2026-11-04 21:09:31 +0900
+description: "흩어진 작업 메모를 단계별 매뉴얼로 바꾸고 빠진 단계를 표시해 달라고 맡겨 봤어요"
 ---
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.

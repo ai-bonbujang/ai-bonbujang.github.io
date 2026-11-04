@@ -5,6 +5,7 @@ subtitle: "규정과 안내문을 자주 묻는 질문과 답으로 풀어 달�
 tags: [AI팀원, 업무지시서, 사내FAQ]
 image: /assets/img/ai-teammate-first-day-14-faq-organizer/cover.png
 date: 2026-11-04 20:40:01 +0900
+description: "규정과 안내문을 자주 묻는 질문과 답으로 풀어 달라고 맡겨 봤어요"
 ---
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.

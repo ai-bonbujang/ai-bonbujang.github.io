@@ -5,6 +5,7 @@ subtitle: "뒤섞인 파일 이름과 폴더를 정리해 달라고 맡겨 봤�
 tags: [AI팀원, 업무지시서, 파일정리]
 image: /assets/img/ai-teammate-first-day-5-file-organizer/cover.png
 date: 2026-11-02 23:57:11 +0900
+description: "뒤섞인 파일 이름과 폴더를 정리해 달라고 맡겨 봤어요"
 ---
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.

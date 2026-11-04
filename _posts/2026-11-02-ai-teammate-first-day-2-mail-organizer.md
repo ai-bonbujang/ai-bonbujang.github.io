@@ -5,6 +5,7 @@ subtitle: "긴 메일 여러 통을 요약하고 답장 초안까지 맡겨 봤�
 tags: [AI팀원, 업무지시서, 메일정리]
 image: /assets/img/ai-teammate-first-day-2-mail-organizer/cover.png
 date: 2026-11-02 23:36:04 +0900
+description: "긴 메일 여러 통을 요약하고 답장 초안까지 맡겨 봤어요"
 ---
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.

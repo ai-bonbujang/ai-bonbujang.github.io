@@ -5,6 +5,7 @@ subtitle: "회의 메모와 엑셀 정리부터 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 자료정리]
 image: /assets/img/ai-teammate-first-day-1-data-organizer/cover.png
 date: 2026-11-02 23:35:26 +0900
+description: "회의 메모와 엑셀 정리부터 맡겨 봤어요"
 ---
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.

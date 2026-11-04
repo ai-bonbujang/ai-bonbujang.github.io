@@ -5,6 +5,7 @@ subtitle: "흩어진 메모를 슬라이드 목차와 장마다 핵심 한 줄�
 tags: [AI팀원, 업무지시서, 발표자료]
 image: /assets/img/ai-teammate-first-day-13-slide-outliner/cover.png
 date: 2026-11-04 20:39:42 +0900
+description: "흩어진 메모를 슬라이드 목차와 장마다 핵심 한 줄로 바꿔 달라고 맡겨 봤어요"
 ---
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.

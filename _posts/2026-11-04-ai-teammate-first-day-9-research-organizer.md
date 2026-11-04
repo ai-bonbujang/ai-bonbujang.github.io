@@ -5,6 +5,7 @@ subtitle: "흩어진 기사와 자료 링크를 한 장 요약과 출처 표로 
 tags: [AI팀원, 업무지시서, 자료조사]
 image: /assets/img/ai-teammate-first-day-9-research-organizer/cover.png
 date: 2026-11-04 20:19:29 +0900
+description: "흩어진 기사와 자료 링크를 한 장 요약과 출처 표로 정리해 달라고 맡겨 봤어요"
 ---
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.

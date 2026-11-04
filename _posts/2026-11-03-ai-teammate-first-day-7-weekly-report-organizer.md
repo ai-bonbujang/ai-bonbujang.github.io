@@ -5,6 +5,7 @@ subtitle: "한 주 업무 메모를 주간 보고서 초안으로 바꿔 달라�
 tags: [AI팀원, 업무지시서, 주간보고]
 image: /assets/img/ai-teammate-first-day-7-weekly-report-organizer/cover.png
 date: 2026-11-03 21:21:40 +0900
+description: "한 주 업무 메모를 주간 보고서 초안으로 바꿔 달라고 맡겨 봤어요"
 ---
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.

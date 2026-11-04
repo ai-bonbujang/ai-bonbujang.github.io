@@ -5,6 +5,7 @@ subtitle: "중복과 형식이 뒤섞인 표를 정리된 표와 바뀐 점 목�
 tags: [AI팀원, 업무지시서, 엑셀정리]
 image: /assets/img/ai-teammate-first-day-10-sheet-cleaner/cover.png
 date: 2026-11-04 20:20:22 +0900
+description: "중복과 형식이 뒤섞인 표를 정리된 표와 바뀐 점 목록으로 바꿔 달라고 맡겨 봤어요"
 ---
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
