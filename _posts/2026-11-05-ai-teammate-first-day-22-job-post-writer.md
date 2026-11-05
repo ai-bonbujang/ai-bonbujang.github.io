@@ -4,7 +4,8 @@ title: "AI 팀원 첫 출근 ㉒ 채용공고 초안 담당"
 subtitle: "팀의 요청 메모를 채용공고 초안과 차별 소지 표현 점검으로 바꿔 달라고 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 채용공고]
 image: /assets/img/ai-teammate-first-day-22-job-post-writer/cover.png
-status: ready
+date: 2026-11-05 20:30:59 +0900
+description: "팀의 요청 메모를 채용공고 초안과 차별 소지 표현 점검으로 바꿔 달라고 맡겨 봤어요"
 ---
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
