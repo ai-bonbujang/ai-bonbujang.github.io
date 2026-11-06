@@ -4,7 +4,8 @@ title: "AI 팀원 첫 출근 ㉘ 품의서·기안 초안 담당"
 subtitle: "구매·요청 메모를 품의서 초안으로 바꿔 달라고 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 품의서]
 image: /assets/img/ai-teammate-first-day-28-proposal-writer/cover.png
-status: ready
+date: 2026-11-06 23:25:25 +0900
+description: "구매·요청 메모를 품의서 초안으로 바꿔 달라고 맡겨 봤어요"
 ---
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
