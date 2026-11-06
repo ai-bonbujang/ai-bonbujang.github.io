@@ -4,7 +4,8 @@ title: "AI 팀원 첫 출근 ㉙ 인터뷰 기록 정리 담당"
 subtitle: "인터뷰 메모를 질문별 요약과 인용으로 정리해 달라고 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 인터뷰정리]
 image: /assets/img/ai-teammate-first-day-29-interview-organizer/cover.png
-status: ready
+date: 2026-11-06 23:25:56 +0900
+description: "인터뷰 메모를 질문별 요약과 인용으로 정리해 달라고 맡겨 봤어요"
 ---
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
