@@ -4,7 +4,8 @@ title: "AI 팀원 첫 출근 ㉕ 행사 준비 담당"
 subtitle: "행사 개요 메모를 준비 체크리스트와 일정표로 바꿔 달라고 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 행사준비]
 image: /assets/img/ai-teammate-first-day-25-event-planner/cover.png
-status: ready
+date: 2026-11-06 14:32:20 +0900
+description: "행사 개요 메모를 준비 체크리스트와 일정표로 바꿔 달라고 맡겨 봤어요"
 ---
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
