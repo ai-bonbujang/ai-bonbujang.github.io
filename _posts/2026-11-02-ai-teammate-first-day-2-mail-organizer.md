@@ -3,10 +3,12 @@ layout: post
 title: "AI 팀원 첫 출근 ② 메일 정리 담당"
 subtitle: "긴 메일 여러 통을 요약하고 답장 초안까지 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 메일정리]
-image: /assets/img/ai-teammate-first-day-2-mail-organizer/cover.png
+image: /assets/img/ai-teammate-first-day-2-mail-organizer/hero.jpg
 date: 2026-11-02 23:36:04 +0900
 description: "긴 메일 여러 통을 요약하고 답장 초안까지 맡겨 봤어요"
 ---
+
+![AI 팀원이 쏟아지는 메일을 세 개의 우편함으로 분류하는 모습]({{ '/assets/img/ai-teammate-first-day-2-mail-organizer/hero.jpg' | relative_url }})<!-- img:hero -->
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
 

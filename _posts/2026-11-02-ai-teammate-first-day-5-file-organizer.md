@@ -3,10 +3,12 @@ layout: post
 title: "AI 팀원 첫 출근 ⑤ 파일 정리 담당"
 subtitle: "뒤섞인 파일 이름과 폴더를 정리해 달라고 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 파일정리]
-image: /assets/img/ai-teammate-first-day-5-file-organizer/cover.png
+image: /assets/img/ai-teammate-first-day-5-file-organizer/hero.jpg
 date: 2026-11-02 23:57:11 +0900
 description: "뒤섞인 파일 이름과 폴더를 정리해 달라고 맡겨 봤어요"
 ---
+
+![AI 팀원이 흩어진 파일을 이름표 붙은 서랍에 정리하는 모습]({{ '/assets/img/ai-teammate-first-day-5-file-organizer/hero.jpg' | relative_url }})<!-- img:hero -->
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
 

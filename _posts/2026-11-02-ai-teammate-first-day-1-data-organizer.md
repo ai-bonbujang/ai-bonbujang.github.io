@@ -3,10 +3,12 @@ layout: post
 title: "AI 팀원 첫 출근 ① 자료 정리 담당"
 subtitle: "회의 메모와 엑셀 정리부터 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 자료정리]
-image: /assets/img/ai-teammate-first-day-1-data-organizer/cover.png
+image: /assets/img/ai-teammate-first-day-1-data-organizer/hero.jpg
 date: 2026-11-02 23:35:26 +0900
 description: "회의 메모와 엑셀 정리부터 맡겨 봤어요"
 ---
+
+![AI 팀원이 흩어진 자료를 색깔별 폴더로 나눠 담는 모습]({{ '/assets/img/ai-teammate-first-day-1-data-organizer/hero.jpg' | relative_url }})<!-- img:hero -->
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
 
