@@ -3,8 +3,9 @@ layout: post
 title: "AI 팀원 첫 출근 ㉝ 보고서 요약 담당"
 subtitle: "여러 장짜리 보고서를 한 장 요약으로 줄여 달라고 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 보고서요약]
-status: ready
 image: /assets/img/ai-teammate-first-day-33-report-summarizer/cover.png
+date: 2026-11-09 21:13:06 +0900
+description: "여러 장짜리 보고서를 한 장 요약으로 줄여 달라고 맡겨 봤어요"
 ---
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
