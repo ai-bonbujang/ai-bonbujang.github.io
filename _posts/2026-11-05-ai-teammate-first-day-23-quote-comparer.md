@@ -3,10 +3,12 @@ layout: post
 title: "AI 팀원 첫 출근 ㉓ 계약·견적 비교 담당"
 subtitle: "견적서 2~3개를 항목별 비교표와 빠진 항목 목록으로 바꿔 달라고 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 견적비교]
-image: /assets/img/ai-teammate-first-day-23-quote-comparer/cover.png
+image: /assets/img/ai-teammate-first-day-23-quote-comparer/hero.jpg
 date: 2026-11-05 20:31:17 +0900
 description: "견적서 2~3개를 항목별 비교표와 빠진 항목 목록으로 바꿔 달라고 맡겨 봤어요"
 ---
+
+![AI 팀원이 계약·견적 비교 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-23-quote-comparer/hero.jpg' | relative_url }})<!-- img:hero -->
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
 

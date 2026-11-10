@@ -3,10 +3,12 @@ layout: post
 title: "AI 팀원 첫 출근 ⑱ 교육자료 담당"
 subtitle: "사내 설명 자료를 신입용 쉬운 요약과 확인 퀴즈 5문항으로 바꿔 달라고 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 교육자료]
-image: /assets/img/ai-teammate-first-day-18-training-writer/cover.png
+image: /assets/img/ai-teammate-first-day-18-training-writer/hero.jpg
 date: 2026-11-04 22:46:50 +0900
 description: "사내 설명 자료를 신입용 쉬운 요약과 확인 퀴즈 5문항으로 바꿔 달라고 맡겨 봤어요"
 ---
+
+![AI 팀원이 교육자료 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-18-training-writer/hero.jpg' | relative_url }})<!-- img:hero -->
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
 

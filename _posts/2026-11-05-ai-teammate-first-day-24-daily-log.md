@@ -3,10 +3,12 @@ layout: post
 title: "AI 팀원 첫 출근 ㉔ 업무 일지 담당"
 subtitle: "하루 동안 적어 둔 메모를 업무 일지와 내일 할 일로 바꿔 달라고 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 업무일지]
-image: /assets/img/ai-teammate-first-day-24-daily-log/cover.png
+image: /assets/img/ai-teammate-first-day-24-daily-log/hero.jpg
 date: 2026-11-05 20:31:36 +0900
 description: "하루 동안 적어 둔 메모를 업무 일지와 내일 할 일로 바꿔 달라고 맡겨 봤어요"
 ---
+
+![AI 팀원이 업무 일지 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-24-daily-log/hero.jpg' | relative_url }})<!-- img:hero -->
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
 

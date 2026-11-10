@@ -3,10 +3,12 @@ layout: post
 title: "AI 팀원 첫 출근 ㉑ 보도자료·사내소식 초안 담당"
 subtitle: "사실만 적은 메모를 사내 소식 글 초안으로 바꿔 달라고 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 사내소식]
-image: /assets/img/ai-teammate-first-day-21-news-writer/cover.png
+image: /assets/img/ai-teammate-first-day-21-news-writer/hero.jpg
 date: 2026-11-05 14:35:43 +0900
 description: "사실만 적은 메모를 사내 소식 글 초안으로 바꿔 달라고 맡겨 봤어요"
 ---
+
+![AI 팀원이 보도자료·사내소식 초안 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-21-news-writer/hero.jpg' | relative_url }})<!-- img:hero -->
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
 

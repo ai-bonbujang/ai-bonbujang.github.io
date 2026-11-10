@@ -3,10 +3,12 @@ layout: post
 title: "AI 팀원 첫 출근 ⑰ 설문 정리 담당"
 subtitle: "자유롭게 쓴 설문 응답을 주제별 분류와 대표 의견, 건수로 정리해 달라고 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 설문정리]
-image: /assets/img/ai-teammate-first-day-17-survey-organizer/cover.png
+image: /assets/img/ai-teammate-first-day-17-survey-organizer/hero.jpg
 date: 2026-11-04 21:09:58 +0900
 description: "자유롭게 쓴 설문 응답을 주제별 분류와 대표 의견, 건수로 정리해 달라고 맡겨 봤어요"
 ---
+
+![AI 팀원이 설문 정리 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-17-survey-organizer/hero.jpg' | relative_url }})<!-- img:hero -->
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
 
