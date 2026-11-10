@@ -5,7 +5,7 @@ subtitle: "목표 설정 AI로 하는 법: 막연한 목표 메모를 넘기면 
 tags: [AI팀원, 업무지시서, 목표설정]
 description: "목표 설정 AI로 하는 법. 막연한 목표 메모로 기한과 확인 기준이 보이는 목표 문장 초안을 만들고, 숫자 기준과 최종 목표는 사람이 정하는 업무 지시서예요."
 image: /assets/img/ai-teammate-first-day-37-goal-writer/hero.jpg
-status: ready
+date: 2026-11-10 21:02:49 +0900
 ---
 
 ![AI 팀원이 목표 문장 다듬기 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-37-goal-writer/hero.jpg' | relative_url }})<!-- img:hero -->
