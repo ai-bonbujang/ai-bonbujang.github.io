@@ -3,10 +3,12 @@ layout: post
 title: "AI 팀원 첫 출근 ⑩ 엑셀 정리 담당"
 subtitle: "중복과 형식이 뒤섞인 표를 정리된 표와 바뀐 점 목록으로 바꿔 달라고 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 엑셀정리]
-image: /assets/img/ai-teammate-first-day-10-sheet-cleaner/cover.png
+image: /assets/img/ai-teammate-first-day-10-sheet-cleaner/hero.jpg
 date: 2026-11-04 20:20:22 +0900
 description: "중복과 형식이 뒤섞인 표를 정리된 표와 바뀐 점 목록으로 바꿔 달라고 맡겨 봤어요"
 ---
+
+![AI 팀원이 엑셀 정리 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-10-sheet-cleaner/hero.jpg' | relative_url }})<!-- img:hero -->
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
 

@@ -3,10 +3,12 @@ layout: post
 title: "AI 팀원 첫 출근 ⑧ 일정 조율 담당"
 subtitle: "여러 사람의 가능한 시간을 모아 회의 후보 시간과 안내문으로 바꿔 달라고 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 일정조율]
-image: /assets/img/ai-teammate-first-day-8-schedule-organizer/cover.png
+image: /assets/img/ai-teammate-first-day-8-schedule-organizer/hero.jpg
 date: 2026-11-03 21:21:59 +0900
 description: "여러 사람의 가능한 시간을 모아 회의 후보 시간과 안내문으로 바꿔 달라고 맡겨 봤어요"
 ---
+
+![AI 팀원이 일정 조율 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-8-schedule-organizer/hero.jpg' | relative_url }})<!-- img:hero -->
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
 

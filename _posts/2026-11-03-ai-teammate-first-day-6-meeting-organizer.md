@@ -3,10 +3,12 @@ layout: post
 title: "AI 팀원 첫 출근 ⑥ 회의 정리 담당"
 subtitle: "회의 메모를 할 일 표와 후속 메일 초안으로 바꿔 달라고 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 회의정리]
-image: /assets/img/ai-teammate-first-day-6-meeting-organizer/cover.png
+image: /assets/img/ai-teammate-first-day-6-meeting-organizer/hero.jpg
 date: 2026-11-03 21:21:21 +0900
 description: "회의 메모를 할 일 표와 후속 메일 초안으로 바꿔 달라고 맡겨 봤어요"
 ---
+
+![AI 팀원이 회의 정리 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-6-meeting-organizer/hero.jpg' | relative_url }})<!-- img:hero -->
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
 

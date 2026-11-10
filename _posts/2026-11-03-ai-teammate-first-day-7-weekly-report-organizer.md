@@ -3,10 +3,12 @@ layout: post
 title: "AI 팀원 첫 출근 ⑦ 주간 보고 담당"
 subtitle: "한 주 업무 메모를 주간 보고서 초안으로 바꿔 달라고 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 주간보고]
-image: /assets/img/ai-teammate-first-day-7-weekly-report-organizer/cover.png
+image: /assets/img/ai-teammate-first-day-7-weekly-report-organizer/hero.jpg
 date: 2026-11-03 21:21:40 +0900
 description: "한 주 업무 메모를 주간 보고서 초안으로 바꿔 달라고 맡겨 봤어요"
 ---
+
+![AI 팀원이 주간 보고 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-7-weekly-report-organizer/hero.jpg' | relative_url }})<!-- img:hero -->
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
 

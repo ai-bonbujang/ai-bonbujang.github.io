@@ -3,10 +3,12 @@ layout: post
 title: "AI 팀원 첫 출근 ⑬ 발표자료 개요 담당"
 subtitle: "흩어진 메모를 슬라이드 목차와 장마다 핵심 한 줄로 바꿔 달라고 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 발표자료]
-image: /assets/img/ai-teammate-first-day-13-slide-outliner/cover.png
+image: /assets/img/ai-teammate-first-day-13-slide-outliner/hero.jpg
 date: 2026-11-04 20:39:42 +0900
 description: "흩어진 메모를 슬라이드 목차와 장마다 핵심 한 줄로 바꿔 달라고 맡겨 봤어요"
 ---
+
+![AI 팀원이 발표자료 개요 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-13-slide-outliner/hero.jpg' | relative_url }})<!-- img:hero -->
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
 
