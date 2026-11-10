@@ -5,7 +5,7 @@ subtitle: "엑셀 수식 AI로 만드는 법: 하고 싶은 계산을 말로 설
 tags: [AI팀원, 업무지시서, 엑셀수식]
 description: "엑셀 수식 AI로 만드는 법. 하고 싶은 계산을 말로 설명해 수식과 검증 방법을 받고, 실제 데이터 확인은 사람이 하는 업무 지시서예요."
 image: /assets/img/ai-teammate-first-day-38-excel-formula-helper/hero.jpg
-status: ready
+date: 2026-11-10 21:03:10 +0900
 ---
 
 ![AI 팀원이 엑셀 수식 도우미 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-38-excel-formula-helper/hero.jpg' | relative_url }})<!-- img:hero -->
