@@ -3,10 +3,12 @@ layout: post
 title: "AI 팀원 첫 출근 ㉛ 프로젝트 회고 정리 담당"
 subtitle: "회고 메모를 잘된 점, 아쉬운 점, 다음에 할 일로 정리해 달라고 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 회고정리]
-image: /assets/img/ai-teammate-first-day-31-retro-organizer/cover.png
+image: /assets/img/ai-teammate-first-day-31-retro-organizer/hero.jpg
 date: 2026-11-06 23:26:35 +0900
 description: "회고 메모를 잘된 점, 아쉬운 점, 다음에 할 일로 정리해 달라고 맡겨 봤어요"
 ---
+
+![AI 팀원이 프로젝트 회고 정리 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-31-retro-organizer/hero.jpg' | relative_url }})<!-- img:hero -->
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
 

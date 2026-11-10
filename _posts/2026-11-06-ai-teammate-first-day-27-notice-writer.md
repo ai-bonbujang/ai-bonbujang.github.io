@@ -3,10 +3,12 @@ layout: post
 title: "AI 팀원 첫 출근 ㉗ 공지·안내문 담당"
 subtitle: "결정 사항 메모를 사내 공지문과 예상 질문으로 바꿔 달라고 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 공지문]
-image: /assets/img/ai-teammate-first-day-27-notice-writer/cover.png
+image: /assets/img/ai-teammate-first-day-27-notice-writer/hero.jpg
 date: 2026-11-06 23:25:06 +0900
 description: "결정 사항 메모를 사내 공지문과 예상 질문으로 바꿔 달라고 맡겨 봤어요"
 ---
+
+![AI 팀원이 공지·안내문 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-27-notice-writer/hero.jpg' | relative_url }})<!-- img:hero -->
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
 

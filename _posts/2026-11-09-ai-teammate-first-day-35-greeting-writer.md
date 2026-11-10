@@ -3,10 +3,12 @@ layout: post
 title: "AI 팀원 첫 출근 ㉟ 경조사·인사 메시지 담당"
 subtitle: "상황 메모를 사내 축하와 위로 문구 초안으로 바꿔 달라고 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 인사메시지]
-image: /assets/img/ai-teammate-first-day-35-greeting-writer/cover.png
+image: /assets/img/ai-teammate-first-day-35-greeting-writer/hero.jpg
 date: 2026-11-09 21:13:44 +0900
 description: "상황 메모를 사내 축하와 위로 문구 초안으로 바꿔 달라고 맡겨 봤어요"
 ---
+
+![AI 팀원이 경조사·인사 메시지 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-35-greeting-writer/hero.jpg' | relative_url }})<!-- img:hero -->
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
 

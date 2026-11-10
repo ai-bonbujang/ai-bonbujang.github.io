@@ -3,10 +3,12 @@ layout: post
 title: "AI 팀원 첫 출근 ㉖ 피드백 정리 담당"
 subtitle: "동료와 고객의 피드백 묶음을 반복되는 의견과 바로 고칠 것 목록으로 바꿔 달라고 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 피드백정리]
-image: /assets/img/ai-teammate-first-day-26-feedback-organizer/cover.png
+image: /assets/img/ai-teammate-first-day-26-feedback-organizer/hero.jpg
 date: 2026-11-06 23:24:42 +0900
 description: "동료와 고객의 피드백 묶음을 반복되는 의견과 바로 고칠 것 목록으로 바꿔 달라고 맡겨 봤어요"
 ---
+
+![AI 팀원이 피드백 정리 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-26-feedback-organizer/hero.jpg' | relative_url }})<!-- img:hero -->
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
 

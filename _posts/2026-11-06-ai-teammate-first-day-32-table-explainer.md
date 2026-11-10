@@ -3,10 +3,12 @@ layout: post
 title: "AI 팀원 첫 출근 ㉜ 숫자 표 해설 담당"
 subtitle: "숫자 표에서 눈에 띄는 변화를 설명하는 문장으로 바꿔 달라고 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 숫자해설]
-image: /assets/img/ai-teammate-first-day-32-table-explainer/cover.png
+image: /assets/img/ai-teammate-first-day-32-table-explainer/hero.jpg
 date: 2026-11-06 23:26:55 +0900
 description: "숫자 표에서 눈에 띄는 변화를 설명하는 문장으로 바꿔 달라고 맡겨 봤어요"
 ---
+
+![AI 팀원이 숫자 표 해설 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-32-table-explainer/hero.jpg' | relative_url }})<!-- img:hero -->
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
 

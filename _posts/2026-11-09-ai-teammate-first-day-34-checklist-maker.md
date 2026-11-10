@@ -3,10 +3,12 @@ layout: post
 title: "AI 팀원 첫 출근 ㉞ 체크리스트 담당"
 subtitle: "말로 적어 둔 업무 설명을 하나씩 체크하는 점검표로 바꿔 달라고 맡겨 봤어요"
 tags: [AI팀원, 업무지시서, 체크리스트]
-image: /assets/img/ai-teammate-first-day-34-checklist-maker/cover.png
+image: /assets/img/ai-teammate-first-day-34-checklist-maker/hero.jpg
 date: 2026-11-09 21:13:26 +0900
 description: "말로 적어 둔 업무 설명을 하나씩 체크하는 점검표로 바꿔 달라고 맡겨 봤어요"
 ---
+
+![AI 팀원이 체크리스트 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-34-checklist-maker/hero.jpg' | relative_url }})<!-- img:hero -->
 
 > 이 글의 팀원과 사례는 설명을 위해 만든 가상 사례예요.
 
