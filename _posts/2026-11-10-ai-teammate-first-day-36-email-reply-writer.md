@@ -5,7 +5,7 @@ subtitle: "메일 답장 AI로 쓰는 법: 받은 메일과 내 메모를 넘기
 tags: [AI팀원, 업무지시서, 메일회신]
 description: "메일 답장 AI로 쓰는 법. 받은 메일과 내 메모로 회신 초안을 만들고, 약속과 날짜는 메모에 적은 것만 쓰게 하는 업무 지시서예요."
 image: /assets/img/ai-teammate-first-day-36-email-reply-writer/hero.jpg
-status: ready
+date: 2026-11-10 21:02:30 +0900
 ---
 
 ![AI 팀원이 메일 회신 초안 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-36-email-reply-writer/hero.jpg' | relative_url }})<!-- img:hero -->
