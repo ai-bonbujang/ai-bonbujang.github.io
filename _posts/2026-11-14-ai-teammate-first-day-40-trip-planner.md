@@ -1,11 +1,11 @@
 ---
 layout: post
-status: ready
 title: "AI 팀원 첫 출근 ㊵ 출장 계획 담당"
 subtitle: "출장 계획 AI로 세우는 법: 출장 목적과 일정 메모를 넘기면 일정표·준비물·예상 경비 항목이 나와요"
 tags: [AI팀원, 업무지시서, 출장계획]
 description: "출장 계획 AI로 세우는 법. 출장 목적과 일정 메모로 일정표, 준비물 목록, 예상 경비 항목 초안을 받고, 예약과 결제는 사람이 하는 업무 지시서예요."
 image: /assets/img/ai-teammate-first-day-40-trip-planner/hero.jpg
+date: 2026-11-14 20:42:34 +0900
 ---
 
 ![AI 팀원이 출장 계획 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-40-trip-planner/hero.jpg' | relative_url }})<!-- img:hero -->
