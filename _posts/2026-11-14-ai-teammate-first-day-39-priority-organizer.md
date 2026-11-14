@@ -1,11 +1,11 @@
 ---
 layout: post
-status: ready
 title: "AI 팀원 첫 출근 ㊴ 업무 우선순위 정리 담당"
 subtitle: "업무 우선순위 AI로 정하는 법: 쌓인 할 일 목록과 마감·중요도 메모를 넘기면 우선순위표와 오늘 할 일 3개가 나와요"
 tags: [AI팀원, 업무지시서, 우선순위]
 description: "업무 우선순위 AI로 정하는 법. 할 일 목록과 마감·중요도 메모로 우선순위표와 오늘 할 일 3개 초안을 받고, 최종 판단은 사람이 하는 업무 지시서예요."
 image: /assets/img/ai-teammate-first-day-39-priority-organizer/hero.jpg
+date: 2026-11-14 20:41:24 +0900
 ---
 
 ![AI 팀원이 업무 우선순위 정리 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-39-priority-organizer/hero.jpg' | relative_url }})<!-- img:hero -->
