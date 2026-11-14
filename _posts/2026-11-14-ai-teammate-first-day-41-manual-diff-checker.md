@@ -1,11 +1,11 @@
 ---
 layout: post
-status: ready
 title: "AI 팀원 첫 출근 ㊶ 매뉴얼 개정 비교 담당"
 subtitle: "문서 두 버전 비교 AI로 하는 법: 옛 매뉴얼과 새 매뉴얼을 넘기면 바뀐 점 목록과 변경 안내 문구가 나와요"
 tags: [AI팀원, 업무지시서, 문서비교]
 description: "문서 두 버전 비교 AI로 하는 법. 옛 버전과 새 버전 매뉴얼로 바뀐 점 목록과 변경 안내 문구 초안을 받고, 바뀐 이유와 적용 확정은 사람이 하는 업무 지시서예요."
 image: /assets/img/ai-teammate-first-day-41-manual-diff-checker/hero.jpg
+date: 2026-11-14 20:43:47 +0900
 ---
 
 ![AI 팀원이 매뉴얼 개정 비교 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-41-manual-diff-checker/hero.jpg' | relative_url }})<!-- img:hero -->
