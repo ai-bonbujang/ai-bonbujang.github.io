@@ -1,11 +1,11 @@
 ---
 layout: post
-status: ready
 title: "AI 팀원 첫 출근 ㊹ 연말 자기평가 초안 담당"
 subtitle: "자기평가 AI로 쓰는 법: 올해 한 일 메모와 주간보고를 넘기면 상황·한 일·결과로 된 성과 초안이 나와요"
 tags: [AI팀원, 업무지시서, 자기평가]
 description: "연말 자기평가 AI로 쓰는 법. 올해 한 일 메모와 주간보고로 상황, 한 일, 결과 구조의 성과 3~5개 초안을 받고, 숫자 검증과 최종 문장은 사람이 하는 업무 지시서예요."
 image: /assets/img/ai-teammate-first-day-44-self-review-writer/hero.jpg
+date: 2026-11-15 21:58:12 +0900
 ---
 
 ![AI 팀원이 연말 자기평가 초안 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-44-self-review-writer/hero.jpg' | relative_url }})<!-- img:hero -->
