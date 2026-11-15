@@ -1,11 +1,11 @@
 ---
 layout: post
-status: ready
 title: "AI 팀원 첫 출근 ㊸ 메신저 대화 요약 담당"
 subtitle: "팀 채팅 요약 AI로 하는 법: 하루치 메신저 대화를 넘기면 결정 사항·할 일·답해야 할 질문이 나와요"
 tags: [AI팀원, 업무지시서, 채팅요약]
 description: "팀 채팅 요약 AI로 하는 법. 하루치 메신저 대화로 결정 사항, 할 일, 답해야 할 질문 정리를 받고, 사적인 대화와 개인정보는 빼는 업무 지시서예요."
 image: /assets/img/ai-teammate-first-day-43-chat-summarizer/hero.jpg
+date: 2026-11-15 21:56:36 +0900
 ---
 
 ![AI 팀원이 메신저 대화 요약 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-43-chat-summarizer/hero.jpg' | relative_url }})<!-- img:hero -->
