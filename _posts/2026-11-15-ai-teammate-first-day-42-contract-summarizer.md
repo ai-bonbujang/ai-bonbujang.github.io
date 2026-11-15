@@ -1,11 +1,11 @@
 ---
 layout: post
-status: ready
 title: "AI 팀원 첫 출근 ㊷ 계약서 요약 담당"
 subtitle: "계약서 요약 AI로 하는 법: 계약서를 넘기면 주요 조항·기한·금액·해지 조건 요약표와 확인할 질문 목록이 나와요"
 tags: [AI팀원, 업무지시서, 계약서요약]
 description: "계약서 요약 AI로 하는 법. 계약서 파일로 주요 조항, 기한, 금액, 해지 조건 요약표와 확인할 질문 목록을 받고, 법적 판단과 서명은 사람이 하는 업무 지시서예요."
 image: /assets/img/ai-teammate-first-day-42-contract-summarizer/hero.jpg
+date: 2026-11-15 21:55:19 +0900
 ---
 
 ![AI 팀원이 계약서 요약 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-42-contract-summarizer/hero.jpg' | relative_url }})<!-- img:hero -->
