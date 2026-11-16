@@ -1,10 +1,10 @@
 ---
 layout: post
-status: ready
 title: "AI 팀원 첫 출근 ㊻ 신규 입사자 안내 담당"
 subtitle: "신입 온보딩 안내문 AI로 만드는 법: 팀 규칙과 도구 메모를 넘기면 첫 주 안내문과 Q&A가 나와요"
 tags: [AI팀원, 업무지시서, 신입안내]
 description: "신입 온보딩 안내문 AI로 만드는 법. 팀 규칙, 자주 쓰는 도구, 담당 창구 메모로 신규 입사자 첫 주 안내문과 Q&A 초안을 받고, 개인정보는 넣지 않는 업무 지시서예요."
+date: 2026-11-16 21:53:57 +0900
 ---
 
 ![AI 팀원이 신규 입사자 안내 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-46-newcomer-guide-writer/hero.jpg' | relative_url }})<!-- img:hero -->
