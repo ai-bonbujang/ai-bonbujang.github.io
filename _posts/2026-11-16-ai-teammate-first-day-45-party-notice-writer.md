@@ -1,10 +1,10 @@
 ---
 layout: post
-status: ready
 title: "AI 팀원 첫 출근 ㊺ 연말 송년회·행사 공지 담당"
 subtitle: "송년회 공지 AI로 쓰는 법: 행사 개요 메모를 넘기면 초대 공지문, 참석 조사 문항, 참석자 안내표가 나와요"
 tags: [AI팀원, 업무지시서, 송년회공지]
 description: "송년회 공지 AI로 쓰는 법. 행사 개요 메모로 참석자에게 보낼 초대 공지문, 참석 조사 문항, 당일 안내표 초안을 받고, 예산 결정과 장소 예약은 사람이 하는 업무 지시서예요."
+date: 2026-11-16 21:52:37 +0900
 ---
 
 ![AI 팀원이 연말 송년회·행사 공지 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-45-party-notice-writer/hero.jpg' | relative_url }})<!-- img:hero -->
