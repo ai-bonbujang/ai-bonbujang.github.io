@@ -1,10 +1,10 @@
 ---
 layout: post
-status: ready
 title: "AI 팀원 첫 출근 ㊼ 내년 업무 계획 초안 담당"
 subtitle: "내년 업무 계획 AI로 세우는 법: 올해 한 일과 남은 과제 메모를 넘기면 내년 목표 3개와 분기별 할 일 표가 나와요"
 tags: [AI팀원, 업무지시서, 업무계획]
 description: "내년 업무 계획 AI로 세우는 법. 올해 한 일과 남은 과제 메모로 내년 목표 3개와 분기별 할 일 표 초안을 받고, 우선순위 결정은 사람이 하는 업무 지시서예요."
+date: 2026-11-16 21:55:28 +0900
 ---
 
 ![AI 팀원이 내년 업무 계획 초안 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-47-next-year-planner/hero.jpg' | relative_url }})<!-- img:hero -->
