@@ -5,7 +5,7 @@ subtitle: "연말정산 서류 AI로 챙기는 법: 올해 바뀐 일 메모를 
 tags: [AI팀원, 업무지시서, 연말정산]
 description: "연말정산 서류 AI로 챙기는 법. 이사, 결혼, 출산, 의료비, 기부처럼 올해 바뀐 일 메모로 챙길 서류 체크표와 홈택스 확인 항목, 회사에 낼 때 빠뜨리기 쉬운 것 목록을 받고, 공제 판단과 최종 확인은 회사 안내문으로 하는 업무 지시서예요."
 image: /assets/img/ai-teammate-first-day-48-year-end-tax-docs/hero.jpg
-status: ready
+date: 2026-11-17 20:54:29 +0900
 ---
 
 ![AI 팀원이 연말정산 서류 챙기기 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-48-year-end-tax-docs/hero.jpg' | relative_url }})<!-- img:hero -->
