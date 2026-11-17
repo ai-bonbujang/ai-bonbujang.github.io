@@ -5,7 +5,7 @@ subtitle: "AI에게 맡길 업무 찾는 법: 일주일 업무 기록을 넘기�
 tags: [AI팀원, 업무지시서, 업무위임]
 description: "AI에게 맡길 업무 찾는 법. 걸린 시간과 반복 여부를 적은 일주일 업무 기록으로 맡길 일, 같이 할 일, 사람이 할 일 세 칸 표와 이번 주 바로 맡겨 볼 일 하나를 받고, 최종 선택은 사람이 하는 업무 지시서예요."
 image: /assets/img/ai-teammate-first-day-50-delegation-finder/hero.jpg
-status: ready
+date: 2026-11-17 20:55:21 +0900
 ---
 
 ![AI 팀원이 AI에게 맡길 업무 찾기 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-50-delegation-finder/hero.jpg' | relative_url }})<!-- img:hero -->
