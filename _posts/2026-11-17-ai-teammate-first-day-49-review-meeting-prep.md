@@ -5,7 +5,7 @@ subtitle: "평가 면담 준비 AI로 하는 법: 팀장이 적어 둔 팀원별
 tags: [AI팀원, 업무지시서, 평가면담]
 description: "연말 평가 면담 준비 AI로 하는 법. 팀장이 적어 둔 팀원별 성과·관찰 메모로 면담 질문 5개, 근거 붙은 피드백 문장, 다음 해 기대 한 줄 초안을 받고, 등급과 보상 결정은 사람이 하는 업무 지시서예요."
 image: /assets/img/ai-teammate-first-day-49-review-meeting-prep/hero.jpg
-status: ready
+date: 2026-11-17 20:54:57 +0900
 ---
 
 ![AI 팀원이 연말 평가 면담 준비 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-49-review-meeting-prep/hero.jpg' | relative_url }})<!-- img:hero -->
