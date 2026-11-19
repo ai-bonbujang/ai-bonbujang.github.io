@@ -5,7 +5,7 @@ subtitle: "연차 일정 AI로 정리하는 법: 팀원들의 휴가 신청 메�
 tags: [AI팀원, 업무지시서, 휴가일정]
 description: "연차 일정 AI로 정리하는 법. 팀원들이 보낸 연말 휴가 신청 메모로 날짜별 휴가 달력표, 같은 날 몰린 날 경고, 자리 비는 날 챙길 업무 목록을 받고, 승인과 조정은 팀장이 하는 업무 지시서예요."
 image: /assets/img/ai-teammate-first-day-51-leave-calendar/hero.jpg
-status: ready
+date: 2026-11-19 22:37:07 +0900
 ---
 
 ![AI 팀원이 연차·휴가 일정 정리 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-51-leave-calendar/hero.jpg' | relative_url }})<!-- img:hero -->
