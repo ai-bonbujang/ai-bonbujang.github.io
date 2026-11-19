@@ -5,7 +5,7 @@ subtitle: "교육 퀴즈 AI로 만드는 법: 교육이 끝난 뒤 자료를 넘
 tags: [AI팀원, 업무지시서, 교육퀴즈]
 description: "사내 교육 퀴즈 AI로 만드는 법. 교육을 마친 뒤 교육 자료로 이해도 확인 퀴즈 5문항, 오답까지 설명하는 정답 해설, 헷갈리기 쉬운 부분 목록을 받고, 내용이 맞는지는 강사가 확인하는 업무 지시서예요."
 image: /assets/img/ai-teammate-first-day-52-training-quiz/hero.jpg
-status: ready
+date: 2026-11-19 22:37:25 +0900
 ---
 
 ![AI 팀원이 사내 교육 퀴즈 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-52-training-quiz/hero.jpg' | relative_url }})<!-- img:hero -->
