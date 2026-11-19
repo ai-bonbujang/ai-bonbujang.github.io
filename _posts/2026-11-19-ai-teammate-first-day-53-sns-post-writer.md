@@ -5,7 +5,7 @@ subtitle: "회사 SNS 게시글 AI로 쓰는 법: 행사·소식 메모를 넘�
 tags: [AI팀원, 업무지시서, SNS게시글]
 description: "회사 SNS 게시글 AI로 쓰는 법. 행사나 소식 메모로 짧은 안, 보통 안, 이야기형 안 세 가지 게시글 초안과 넣으면 안 되는 정보 체크를 받고, 올릴지와 최종 문구는 담당자가 정하는 업무 지시서예요."
 image: /assets/img/ai-teammate-first-day-53-sns-post-writer/hero.jpg
-status: ready
+date: 2026-11-19 22:37:48 +0900
 ---
 
 ![AI 팀원이 회사 SNS 게시글 초안 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-53-sns-post-writer/hero.jpg' | relative_url }})<!-- img:hero -->
