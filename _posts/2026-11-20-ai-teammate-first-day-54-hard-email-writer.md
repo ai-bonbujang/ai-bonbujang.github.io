@@ -5,7 +5,7 @@ subtitle: "거절 메일 AI로 쓰는 법: 거절·독촉·일정 연기처럼 �
 tags: [AI팀원, 업무지시서, 곤란한메일]
 description: "거절 메일 AI로 쓰는 법. 거절, 독촉, 일정 연기처럼 먼저 꺼내기 어려운 상황 메모로 부드러운 안과 분명한 안 메일 초안, 빠지면 안 되는 내용 체크, 보내기 전 확인할 표현을 받고, 보낼지와 최종 문장은 사람이 정하는 업무 지시서예요."
 image: /assets/img/ai-teammate-first-day-54-hard-email-writer/hero.jpg
-status: ready
+date: 2026-11-20 21:28:23 +0900
 ---
 
 ![AI 팀원이 곤란한 메일 쓰기 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-54-hard-email-writer/hero.jpg' | relative_url }})<!-- img:hero -->
