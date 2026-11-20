@@ -5,7 +5,7 @@ subtitle: "회의 결정 사항 AI로 모아 관리하는 법: 몇 주치 회의
 tags: [AI팀원, 업무지시서, 결정기록]
 description: "회의 결정 사항 AI로 모아 관리하는 법. 몇 주치 회의록으로 날짜, 결정, 담당, 근거 회의가 적힌 결정 대장과 번복되거나 서로 부딪히는 결정 표시, 아직 결정 안 된 것 목록을 받고, 어느 결정을 따를지는 사람이 정하는 업무 지시서예요."
 image: /assets/img/ai-teammate-first-day-55-decision-log/hero.jpg
-status: ready
+date: 2026-11-20 21:28:45 +0900
 ---
 
 ![AI 팀원이 결정 기록 대장 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-55-decision-log/hero.jpg' | relative_url }})<!-- img:hero -->
