@@ -5,7 +5,7 @@ subtitle: "보고서 그래프 AI로 고르는 법: 숫자 표와 보고 목적 
 tags: [AI팀원, 업무지시서, 그래프선택]
 description: "보고서 그래프 AI로 고르는 법. 숫자 표와 보고 목적 한 줄로 어울리는 그래프 종류 2~3개 추천, 각 그래프에서 잘 보이는 것과 가려지는 것, 그래프 제목 초안을 받고, 숫자 검증과 최종 선택은 사람이 하는 업무 지시서예요."
 image: /assets/img/ai-teammate-first-day-56-chart-picker/hero.jpg
-status: ready
+date: 2026-11-20 21:29:06 +0900
 ---
 
 ![AI 팀원이 보고서 그래프 고르기 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-56-chart-picker/hero.jpg' | relative_url }})<!-- img:hero -->
