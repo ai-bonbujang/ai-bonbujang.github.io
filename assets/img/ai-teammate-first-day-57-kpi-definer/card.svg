@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="796" viewBox="0 0 900 796" font-family="'Noto Sans KR','Malgun Gothic','Apple SD Gothic Neo',sans-serif" role="img" aria-label="인사 카드: 업무 지표 정의서 담당 (AI)">
+<title>인사 카드: 업무 지표 정의서 담당 (AI)</title>
+<rect width="900" height="796" fill="#F4F6FA"/>
+<rect x="40" y="40" width="820" height="716" rx="28" fill="#FFFFFF" stroke="#1B2A49" stroke-width="3"/>
+<rect x="40" y="40" width="820" height="120" rx="28" fill="#1B2A49"/>
+<rect x="40" y="120" width="820" height="40" fill="#1B2A49"/>
+<rect x="410" y="58" width="80" height="16" rx="8" fill="#F4F6FA"/>
+<text x="450" y="128" font-size="36" font-weight="700" fill="#FFFFFF" text-anchor="middle" >AI 본부장 사원증</text>
+<circle cx="130" cy="250" r="46" fill="#F5A623"/>
+<text x="130" y="264" font-size="40" font-weight="700" fill="#1B2A49" text-anchor="middle" >AI</text>
+<text x="210" y="238" font-size="22" font-weight="400" fill="#5B6475" text-anchor="start" >팀원</text>
+<text x="210" y="280" font-size="40" font-weight="700" fill="#1B2A49" text-anchor="start" >업무 지표 정의서 담당 (AI)</text>
+<line x1="80" y1="310" x2="820" y2="310" stroke="#D9DEE8" stroke-width="2"/>
+<text x="80" y="352" font-size="22" font-weight="700" fill="#5B6475" text-anchor="start" >하는 일</text>
+<text x="260" y="354" font-size="26" font-weight="400" fill="#1B2A49" text-anchor="start" >팀이 보는 숫자 이름과 쓰는 목적을 읽고</text>
+<text x="260" y="388" font-size="26" font-weight="400" fill="#1B2A49" text-anchor="start" >지표마다 정의·계산식·출처·주기·담당 표,</text>
+<text x="260" y="422" font-size="26" font-weight="400" fill="#1B2A49" text-anchor="start" >계산이 다른 같은 이름 표시, 빈 정의 질문 목록</text>
+<text x="260" y="456" font-size="26" font-weight="400" fill="#1B2A49" text-anchor="start" >만들기</text>
+<line x1="80" y1="488" x2="820" y2="488" stroke="#D9DEE8" stroke-width="2"/>
+<text x="80" y="530" font-size="22" font-weight="700" fill="#5B6475" text-anchor="start" >일하는 방식</text>
+<text x="260" y="532" font-size="26" font-weight="400" fill="#1B2A49" text-anchor="start" >말로 시키면 해요. 시킨 만큼만 해요.</text>
+<line x1="80" y1="564" x2="820" y2="564" stroke="#D9DEE8" stroke-width="2"/>
+<text x="80" y="606" font-size="22" font-weight="700" fill="#5B6475" text-anchor="start" >월 비용</text>
+<text x="260" y="608" font-size="26" font-weight="400" fill="#1B2A49" text-anchor="start" >Claude Pro 기준 월 $20</text>
+<line x1="80" y1="640" x2="820" y2="640" stroke="#D9DEE8" stroke-width="2"/>
+<text x="80" y="682" font-size="22" font-weight="700" fill="#5B6475" text-anchor="start" >처리 시간</text>
+<text x="260" y="684" font-size="26" font-weight="400" fill="#1B2A49" text-anchor="start" >지표 목록 메모 1건(약 220자)에 23초</text>
+</svg>
