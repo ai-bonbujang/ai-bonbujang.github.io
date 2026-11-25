@@ -4,7 +4,7 @@ title: "AI 팀원 첫 출근 59 사내 용어집 담당"
 subtitle: "사내 용어집 AI로 만드는 법: 사내 문서와 메신저에서 모은 문장을 넘기면 약어·용어 목록과 정의 초안, 같은 뜻 다른 표기 표시가 나와요"
 tags: [AI팀원, 업무지시서, 사내용어집]
 description: "사내 용어집 AI로 만드는 법. 사내 문서와 메신저에서 모은 문장 몇 개로 약어와 사내 용어 목록, 정의 초안, 같은 뜻 다른 표기 표시, 뜻이 불분명한 말 질문 목록을 받고, 정의 확정은 담당자가 하는 업무 지시서예요."
-status: ready
+date: 2026-11-25 21:34:20 +0900
 ---
 
 ![AI 팀원이 사내 용어집 담당 일을 하는 모습]({{ '/assets/img/ai-teammate-first-day-59-glossary-maker/hero.jpg' | relative_url }})<!-- img:hero -->
